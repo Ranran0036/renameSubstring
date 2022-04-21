@@ -1,0 +1,25 @@
+{
+  "name": "rename-substing-for-videofile",
+  "version": "0.0.1",
+  "description": "rename subtring files for matching video files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node rename "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranran0036/renameSubstring.git"
+  },
+  "keywords": [
+    "rename",
+    "subtring",
+    "match",
+    "video"
+  ],
+  "author": "ranran0036",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranran0036/renameSubstring/issues"
+  },
+  "homepage": "https://github.com/Ranran0036/renameSubstring#readme"
+}
